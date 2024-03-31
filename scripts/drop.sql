@@ -1,0 +1,17 @@
+USE medlin;
+drop table reparation_d_entretien;
+drop table prestation_reparation;
+drop table traitement;
+drop table tache;
+drop table remplacement;
+drop table operation_reparation;
+drop table reparation;
+drop table rendez_vous;
+drop table vehicule;
+drop table client;
+drop table type_vehicule;
+DROP table marque;
+DROP table operation;
+DROP table prestation;
+DROP table piece;
+DROP TABLE mecanicien;
